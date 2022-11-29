@@ -1,0 +1,9 @@
+{
+    "method":"POST",
+    "url": "/posts",
+    "body": {
+        "title": "foo",
+        "body": "bar",
+        "userId": 1  
+    }
+}

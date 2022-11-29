@@ -1,0 +1,18 @@
+{
+  "name": "api_prova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scripts": "cypress run",
+    "test": "npm run scripts || npm run posttest",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^8.11.2",
+    "cypress": "^11.2.0"
+  }
+}

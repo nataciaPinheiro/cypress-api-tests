@@ -1,0 +1,10 @@
+{
+    "method":"PUT",
+    "url": "/posts/1",
+    "body":{
+        "id": 1,
+        "title": "foo",
+        "body": "bar",
+        "userId": 1  
+    }
+}
