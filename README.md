@@ -10,14 +10,14 @@
 As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 
-<a  href="https://code.visualstudio.com/">
+<a  href="https://docs.cypress.io/guides/getting-started/installing-cypress">
 
 <img  src="https://img.shields.io/static/v1?label=cypress&message=V11.x.x&color=green&style=for-the-badge&logo=cypress&logoColor=green"/>
 
 </a>
 <br>
 
-<a  href="https://docs.cypress.io/guides/getting-started/installing-cypress">
+<a  href="https://www.npmjs.com/package/ajv">
 
 <img  src="https://img.shields.io/static/v1?label=ajv&message=V8.x.x&color=blue&style=for-the-badge&logo=ajv"/>
 
