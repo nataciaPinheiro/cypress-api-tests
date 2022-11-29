@@ -77,4 +77,4 @@ $ npm run test
 
   
 
-![Print do resultado dos testes](readme-assets/test-results.png)
+![Print do resultado dos testes](readme-assets/tests-results.png)
